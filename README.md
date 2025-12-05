@@ -18,7 +18,7 @@
 | in tall buildings                               | G   |              |                                                                                                                                      |
 | Back in the Good Ole Days (John Hartford)       | E   |              |                                                                                                                                      |
 | You've Got a Friend in Me                       | E   |              |                                                                                                                                      |
-| Where Is My Mind (Pixies)                       | G   |              |                                                                                                                                      |
+| Where Is My Mind (Pixies)                       | E   |              |                                                                                                                                      |
 | Country Road                                    | A   |              |                                                                                                                                      |
 
 ## 自作
