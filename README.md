@@ -21,4 +21,20 @@
 | Where Is My Mind (Pixies)                       | E   |     |              |                                                                                                                                      |
 | Country Road                                    | A   |     |              |                                                                                                                                      |
 
+### 没リスト
+
+気になるものがあれば。
+
+- how deep is your love (Beegees)・・・裏声練習用だったもの。コーラスないとイマイチなので演奏はしなかった
+- エイリアンズ(キリンジ)・・・同上
+- hey brother(Avicii)・・・Banjo ではアレンジ厳しかった。パーカスパートいればワンチャンできる
+- Overpass Graffiti・・・Banjo ではアレンジ厳しかった
+- Wander Wall(Oasis)・・・Banjo ではアレンジ厳しかった
+- piano man(Billy Joel)・・・他バンドがカバーしてたのでやめた
+- On and On(Elephant Revival)・・・こういうアメリカーナサウンドやりたいのでエッセンス知るために試したさはある。無名すぎる曲＆バンドなので持ちネタにするのは微妙
+- Waterford Town(Taark)・・・同上
+- Day Tripper(Beatles)・・・コーラスないと微妙だった
+- No Surprises(Radiohead)・・・演奏する機会なかった
+- Wish You Were Here(Pink Floyd)・・・ちょっとした理由でやらなかった。練習すればできる。
+
 ## 自作
