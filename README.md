@@ -16,10 +16,10 @@
 | Desperado                                       | G   |     |                                                                                                                                                   |                                                                                                                                      |
 | Gentle on My Mind                               | F   |     |                                                                                                                                                   |                                                                                                                                      |
 | in tall buildings                               | G   | 112 |                                                                                                                                                   |                                                                                                                                      |
-| Back in the Good Ole Days (John Hartford)       | E   |     |                                                                                                                                                   |                                                                                                                                      |
 | You've Got a Friend in Me                       | E   |     |                                                                                                                                                   |                                                                                                                                      |
 | Where Is My Mind (Pixies)                       | E   |     |                                                                                                                                                   |                                                                                                                                      |
 | Country Road                                    | A   |     |                                                                                                                                                   |                                                                                                                                      |
+|                                                 |
 
 ### 没リスト
 
@@ -32,7 +32,8 @@
 - Wander Wall(Oasis)・・・Banjo ではアレンジ厳しかった
 - piano man(Billy Joel)・・・他バンドがカバーしてたのでやめた
 - On and On(Elephant Revival)・・・こういうアメリカーナサウンドやりたいのでエッセンス知るために試したさはある。無名すぎる曲＆バンドなので持ちネタにするのは微妙
-- Waterford Town(Taark)・・・同上
+- Waterford Town(Taarka)・・・同上
+- Back in the Good Ole Days (John Hartford)・・・昔やってたけど忘れた。Bluegrass 布教にしても他にいい曲ありそう。エレベはちょっと楽しそう
 - Day Tripper(Beatles)・・・コーラスないと微妙だった
 - No Surprises(Radiohead)・・・演奏する機会なかった
 - Wish You Were Here(Pink Floyd)・・・ちょっとした理由でやらなかった。練習すればできる。
