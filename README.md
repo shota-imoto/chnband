@@ -8,7 +8,7 @@
 | Pretty Woman                                    | A   | 138 |                                                                                                                                                   |                                                                                                                                      |
 | Your Song (Elton John)                          | G   | 128 |                                                                                                                                                   |                                                                                                                                      |
 | The Only Living Boy in N.Y. (Simon & Garfunkel) | D   | 72  |                                                                                                                                                   |                                                                                                                                      |
-| 優しさに包まれたなら                            | E   |     |                                                                                                                                                   |                                                                                                                                      |
+| 優しさに包まれたなら                            | E   | 116 |                                                                                                                                                   |                                                                                                                                      |
 | Hotel California                                | Bm  | 72  |                                                                                                                                                   |                                                                                                                                      |
 | Think Out Loud                                  | C   | 84  |                                                                                                                                                   |                                                                                                                                      |
 | てぃんさぐぬ花                                  | G   |     | [GitHub](https://github.com/shota-imoto/chnband/blob/main/demo/20260211_%E3%81%A6%E3%81%83%E3%82%93%E3%81%95%E3%81%90%E3%81%AC%E8%8A%B1_demo.wav) | [GitHub](https://github.com/shota-imoto/chnband/blob/main/chords/%E3%81%A6%E3%81%83%E3%82%93%E3%81%95%E3%81%90%E3%81%AC%E8%8A%B1.md) |
@@ -37,5 +37,6 @@
 - Day Tripper(Beatles)・・・コーラスないと微妙だった
 - No Surprises(Radiohead)・・・演奏する機会なかった
 - Wish You Were Here(Pink Floyd)・・・ちょっとした理由でやらなかった。練習すればできる。
+- Water is Wide(James Taylor)・・・key of C。ビブラート練習用だったもの。演奏する機会なかった。
 
 ## 自作
